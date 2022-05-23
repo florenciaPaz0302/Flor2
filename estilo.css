@@ -7,7 +7,7 @@ containerdemas{
   background-color: green;
 }
 
-.container{
+.conteiner{
   display: grid;
   background-attachment: fixed;
   grid-gap: 1rem;
