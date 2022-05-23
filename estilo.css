@@ -1,0 +1,65 @@
+*{
+  margin: 0%;
+  padding: 0%;
+
+}
+containerdemas{
+  background-color: green;
+}
+
+.container{
+  display: grid;
+  background-attachment: fixed;
+  grid-gap: 1rem;
+  padding: 1rem;
+  grid-template-columns: 1fr;
+  min-height: 100vh;
+  grid-auto-rows: auto auto 1fr auto;
+  
+}
+.my-redes {
+  text-align: right;
+}
+
+.propiedades{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+  background-image: linear-gradient(to left, rgb(51, 247, 51), rgb(179, 255, 0));
+  color: white;
+}
+
+.header{
+  background-color: white;
+  grid-area: header ;
+  justify-items: center;
+  
+  display: grid;
+  grid-template-columns: auto;
+  justify-items: auto;
+}
+
+.main{
+  background-color: white;
+  grid-area: main;
+  justify-items: center;
+}
+.aside{
+  background-color:white;
+  display: grid; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer{
+  background-color: black;
+  color: white;
+  grid-area: footer;
+}
+.buscanos{
+  background-color: yellowgreen;
+}
+@media(min-width:768px){
+   
+  }
