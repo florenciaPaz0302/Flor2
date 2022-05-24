@@ -64,21 +64,12 @@ containerdemas{
   grid-area: main;
   justify-items: center;
 }
-.aside{
-  background-color:white;
-  display: grid; 
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .footer{
-  background-color: black;
-  color: white;
+  background-color: greenyellow;
+  color: black;
   grid-area: footer;
 }
-.buscanos{
-  background-color: yellowgreen;
-}
+
 @media(min-width:768px){
    
   }
