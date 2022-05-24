@@ -3,9 +3,6 @@
   padding: 0%;
 
 }
-containerdemas{
-  background-color: green;
-}
 .section{
   text-align: center;
 }
@@ -36,9 +33,6 @@ containerdemas{
   min-height: 100vh;
   grid-auto-rows: auto auto 1fr auto;
   
-}
-.my-redes {
-  text-align: right;
 }
 
 .propiedades{
