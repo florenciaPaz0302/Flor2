@@ -16,6 +16,9 @@ containerdemas{
 .section-img{
   width: 50%;
 }
+.subtitulo{
+  text-align: center;
+}
 
 .conteiner{
   display: grid;
