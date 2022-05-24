@@ -19,6 +19,9 @@ containerdemas{
 .subtitulo{
   text-align: center;
 }
+.subt{
+  text-align: center;
+}
 
 .conteiner{
   display: grid;
