@@ -21,7 +21,10 @@ containerdemas{
 }
 .subt{
   text-align: center;
+}.contactoinfo{
+  text-align: center;
 }
+
 
 .conteiner{
   display: grid;
