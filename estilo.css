@@ -6,6 +6,16 @@
 containerdemas{
   background-color: green;
 }
+.section{
+  text-align: center;
+}
+.section-caja-img{
+  display: flex;
+  justify-content: center;
+}
+.section-img{
+  width: 50%;
+}
 
 .conteiner{
   display: grid;
