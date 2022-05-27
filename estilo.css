@@ -3,6 +3,12 @@
   padding: 0%;
 
 }
+.sectioncontacto{
+  background-image: url(https://www.telam.com.ar/thumbs/bluesteel/advf/imagenes/2013/04/516ff7dd48471_900.jpg);
+    background-blend-mode: soft-light;
+    background-color: currentcolor;
+    text-align: center;
+}
 .section{
   text-align: center;
 }
@@ -21,8 +27,8 @@
 }
 .contactoinfo{
   text-align: center;
+  color: white;
 }
-
 
 .conteiner{
   display: grid;
