@@ -9,12 +9,10 @@
     background-color: currentcolor;
     text-align: center;
 }
-.nombre{
-  color:white;
-}
 .fondocon{
   display: inline-block;
   width: 50%;
+  color: white;
 }
 .section{
   text-align: center;
