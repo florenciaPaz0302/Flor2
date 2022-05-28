@@ -75,6 +75,7 @@
   background-color: white;
   grid-area: main;
   justify-items: center;
+  height: 80vh;
 }
 
 .footer {
