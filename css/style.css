@@ -17,9 +17,9 @@
 .sectioncontacto .fondocon {
   display: inline-block;
   width: 50%;
-  color: white;
 }
-.sectioncontacto .fondocon .contactoinfo {
+
+.contactoinfo {
   text-align: center;
   color: white;
 }
