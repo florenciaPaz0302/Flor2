@@ -14,8 +14,7 @@
   background-color: currentcolor;
   text-align: center;
 }
-
-.fondocon {
+.sectioncontacto .fondocon {
   display: inline-block;
   width: 50%;
   color: white;
@@ -29,9 +28,12 @@
   display: flex;
   justify-content: center;
 }
-
-.section-img {
+.section-caja-img .section-img {
   width: 50%;
+}
+.section-caja-img .contactoinfo {
+  text-align: center;
+  color: white;
 }
 
 .subtitulo {
@@ -40,11 +42,6 @@
 
 .subt {
   text-align: center;
-}
-
-.contactoinfo {
-  text-align: center;
-  color: white;
 }
 
 .conteiner {

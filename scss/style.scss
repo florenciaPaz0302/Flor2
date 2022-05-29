@@ -11,31 +11,33 @@
       background-blend-mode: soft-light;
       background-color: currentcolor;
       text-align: center;
+      .fondocon{
+        display: inline-block;
+        width: 50%;
+        color: white;
+      }
   }
-  .fondocon{
-    display: inline-block;
-    width: 50%;
-    color: white;
-  }
+  
   .section{
     text-align: center;
   }
   .section-caja-img{
     display: flex;
     justify-content: center;
+    .section-img{
+        width: 50%;
+      }
+      .contactoinfo{
+        text-align: center;
+        color: white;
+      }
   }
-  .section-img{
-    width: 50%;
-  }
+  
   .subtitulo{
     text-align: center;
   }
   .subt{
     text-align: center;
-  }
-  .contactoinfo{
-    text-align: center;
-    color: white;
   }
   .conteiner{
     display: grid;
