@@ -1,0 +1,92 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.sectioncontacto {
+  background-image: url(https://www.telam.com.ar/thumbs/bluesteel/advf/imagenes/2013/04/516ff7dd48471_900.jpg);
+  background-blend-mode: soft-light;
+  background-color: currentcolor;
+  text-align: center;
+}
+
+.fondocon {
+  display: inline-block;
+  width: 50%;
+  color: white;
+}
+
+.section {
+  text-align: center;
+}
+
+.section-caja-img {
+  display: flex;
+  justify-content: center;
+}
+
+.section-img {
+  width: 50%;
+}
+
+.subtitulo {
+  text-align: center;
+}
+
+.subt {
+  text-align: center;
+}
+
+.contactoinfo {
+  text-align: center;
+  color: white;
+}
+
+.conteiner {
+  display: grid;
+  background-attachment: fixed;
+  grid-gap: 1rem;
+  padding: 1rem;
+  grid-template-columns: 1fr;
+  min-height: 100vh;
+  grid-auto-rows: auto auto 1fr auto;
+}
+
+.propiedades {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+  background-image: linear-gradient(to left, rgb(51, 247, 51), rgb(179, 255, 0));
+  color: white;
+}
+
+.header {
+  background-color: white;
+  grid-area: header;
+  justify-items: center;
+  display: grid;
+  grid-template-columns: auto;
+  justify-items: auto;
+}
+
+.main {
+  background-color: white;
+  grid-area: main;
+  justify-items: center;
+}
+
+.footer {
+  background-color: greenyellow;
+  text-align: center;
+  color: black;
+  grid-area: footer;
+}
+
+/*# sourceMappingURL=style.css.map */
